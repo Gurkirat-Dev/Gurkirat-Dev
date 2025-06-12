@@ -23,7 +23,7 @@
 ## 🔧 Tech Stack
 
 - **Languages:** HTML, CSS, JavaScript  
-- **Frameworks & Libraries:** React, Tailwind CSS, GSAP, Locomotive Scroll  
+- **Frameworks & Libraries:** React, Redux, Tailwind CSS, GSAP, Locomotive Scroll  
 - **Tools:** Git, GitHub, VS Code, Canva, Figma
 
 ---
@@ -31,13 +31,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gurkirat-singh-w/" target="_blank">
+  <a href="https://www.linkedin.com/in/gurkirat-dev/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="32"/>
   </a>
   <a href="mailto:gurkirat836.w@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email" width="32"/>
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://gurkirat-dev.github.io/Portfolio_version-1/" target="_blank">
     <img src="https://img.icons8.com/color/48/web.png" alt="Portfolio" width="32"/>
   </a>
 </p>
